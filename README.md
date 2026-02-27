@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Software developer resource board*
 
-Submitted by: **Your Name Here**
+Submitted by: **Elijah Zane Chapman**
 
-This web app: **insert description**
+This web app: **This is a resource board for software developers with different links to learn different software tools**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/Users/ezc/Desktop/Screen Recording 2026-02-26 at 9.59.16 PM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -46,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Elijah Zane Chapman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
