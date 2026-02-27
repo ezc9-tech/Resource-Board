@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='/Users/ezc/Desktop/Screen Recording 2026-02-26 at 9.59.16 PM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./public/Adobe Express - Screen Recording 2026-02-26 at 9.59.16 PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
